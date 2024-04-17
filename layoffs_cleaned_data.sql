@@ -1,5 +1,3 @@
-
-
 -- Data Cleaning: The cleaning of this dataset will increase my overall productivity as well as yield the highest quality data possible for when I perform the subsequent 
 -- exploratory data analysis. 
 --------------------
