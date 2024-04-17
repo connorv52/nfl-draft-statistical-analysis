@@ -1,6 +1,6 @@
 -- Data Cleaning: The cleaning of this dataset will increase my overall productivity as well as yield the highest quality data possible for when I perform the subsequent 
 -- exploratory data analysis. 
---------------------
+----------------------
 SELECT * FROM layoffs;
 
 -- 1. Remove Duplicates
@@ -171,4 +171,4 @@ DROP COLUMN row_num;
 SELECT * FROM layoffs_staging2;
 
 -- The data has been cleaned! Exploratory data analysis is now appropriate 
---------------------
+----------------------
