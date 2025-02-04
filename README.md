@@ -8,5 +8,5 @@ In this project, we will consider and potentially provide answers to questions s
 - **Are certain positions more coveted in the draft than others?**
 - **What does the average draft look like over the years?**
 - **Do height, weight, and other attributes significantly help players' draft stock?**
-- **How important are players' colleges they attended in determining their selection?**
+- **How important are the colleges that players they attended in determining their selection?**
 - **Do successful and non-successful NFL teams behave differently in their approach to the draft?**
