@@ -5,9 +5,8 @@ As the National Football League (NFL) has expanded in size and popularity, so ha
 
 In this project, we will consider and potentially provide answers to questions such as:
 
-Are certain positions more coveted in the draft than others?
-What does the average draft look like over the years?
-Do height, weight, and other attributes significantly help players' draft stock?
-How important are players' colleges they attended in determining their selection?
-Do successful and non-successful NFL teams behave differently in their approach to the draft?
-Our first steps should be loading the relevant datasets and considering some descriptive statistics.
+- **Are certain positions more coveted in the draft than others?**
+- **What does the average draft look like over the years?**
+- **Do height, weight, and other attributes significantly help players' draft stock?**
+- **How important are players' colleges they attended in determining their selection?**
+- **Do successful and non-successful NFL teams behave differently in their approach to the draft?**
